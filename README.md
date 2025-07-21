@@ -47,7 +47,7 @@ project/
 
 <img width="300" height="300" alt="Screenshot 2025-07-21 120752" src="https://github.com/user-attachments/assets/e9b1100c-5dc8-4c94-95c2-175e8250f99d" />
 
-<img width="1654" height="300" alt="Screenshot 2025-07-21 120950" src="https://github.com/user-attachments/assets/f99af20a-0605-4d39-8234-08496671144f" />
+<img width="300" height="300" alt="Screenshot 2025-07-21 120950" src="https://github.com/user-attachments/assets/f99af20a-0605-4d39-8234-08496671144f" />
 
 <img width="300" height="300" alt="Screenshot 2025-07-21 120734" src="https://github.com/user-attachments/assets/76b80564-64ff-446a-8ed6-99f63cb43450" />
 
