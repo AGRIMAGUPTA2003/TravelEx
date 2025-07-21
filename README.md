@@ -71,12 +71,12 @@ project/
   - Employees can claim expenses
   - Managers/Admins can approve them
 
-Future Enhancements
+# Future Enhancements
 •	Email notifications on approval
 •	Admin panel for audit reports
 •	Date pickers and budget validators
 
-Author
+# Author
 •	Agrima Gupta
 Final Year Student |Full-Stack Developer
 Mail : agrima.gupta_cs22@gla.ac.in
