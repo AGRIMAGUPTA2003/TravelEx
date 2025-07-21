@@ -45,7 +45,7 @@ project/
 # Screenshots
 
 # Features
-<img width="1015" height="881" alt="Screenshot 2025-07-21 120752" src="https://github.com/user-attachments/assets/e9b1100c-5dc8-4c94-95c2-175e8250f99d" />
+<img width="100" height="100" alt="Screenshot 2025-07-21 120752" src="https://github.com/user-attachments/assets/e9b1100c-5dc8-4c94-95c2-175e8250f99d" />
 
 
 - Authentication System
