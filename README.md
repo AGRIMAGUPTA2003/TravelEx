@@ -43,11 +43,10 @@ project/
 └── README.md
 
 # Screenshots
+<img width="300" height="300" alt="Screenshot 2025-07-21 120752" src="https://github.com/user-attachments/assets/e9b1100c-5dc8-4c94-95c2-175e8250f99d" />
+
 
 # Features
-<img width="100" height="100" alt="Screenshot 2025-07-21 120752" src="https://github.com/user-attachments/assets/e9b1100c-5dc8-4c94-95c2-175e8250f99d" />
-
-
 - Authentication System
   - Signup & Login for users
   - Basic session-based login logic
