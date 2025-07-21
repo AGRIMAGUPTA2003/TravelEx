@@ -43,7 +43,7 @@ project/
 └── README.md
 
 # Screenshots
-<img width="500" height="500" alt="Screenshot 2025-07-21 120701" src="https://github.com/user-attachments/assets/bbd9199c-cf3b-4996-b830-91a9ab700919" />
+<img width="500" height="900" alt="Screenshot 2025-07-21 120701" src="https://github.com/user-attachments/assets/bbd9199c-cf3b-4996-b830-91a9ab700919" />
 
 <img width="500" height="500" alt="Screenshot 2025-07-21 120752" src="https://github.com/user-attachments/assets/e9b1100c-5dc8-4c94-95c2-175e8250f99d" />
 
