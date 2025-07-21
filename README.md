@@ -42,6 +42,9 @@ project/
 ├── package.json
 └── README.md
 
+# Screenshots
+https://drive.google.com/file/d/1avi86s47rPCeg8vhekoz390obE-x5gQO/view?usp=sharing
+
 # Features
 
 - Authentication System
