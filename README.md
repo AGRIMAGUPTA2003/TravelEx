@@ -72,14 +72,14 @@ project/
   - Managers/Admins can approve them
 
 # Future Enhancements: 
-•	Email notifications on approval
-•	Admin panel for audit reports
-•	Date pickers and budget validators
+-	Email notifications on approval
+-	Admin panel for audit reports
+- Date pickers and budget validators
 
 # Author: 
 
-•	Agrima Gupta
-Final Year Student |Full-Stack Developer
-Mail : agrima.gupta_cs22@gla.ac.in
+-	Agrima Gupta
+- Final Year Student |Full-Stack Developer
+- Mail : agrima.gupta_cs22@gla.ac.in
 
 
