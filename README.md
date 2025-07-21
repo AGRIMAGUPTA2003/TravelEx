@@ -43,9 +43,10 @@ project/
 └── README.md
 
 # Screenshots
-https://drive.google.com/file/d/1avi86s47rPCeg8vhekoz390obE-x5gQO/view?usp=sharing
 
 # Features
+<img width="1015" height="881" alt="Screenshot 2025-07-21 120752" src="https://github.com/user-attachments/assets/e9b1100c-5dc8-4c94-95c2-175e8250f99d" />
+
 
 - Authentication System
   - Signup & Login for users
